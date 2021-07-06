@@ -86,9 +86,9 @@ author:
   location         : "Dunedin, Aotearoa New Zealand"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NnHjhz8AAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Nicholas-Daudt"
+  researchgate     : "https://www.researchgate.net/profile/Nicholas-Daudt"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nwdaudt"
+  github           : "nwdaudt"
   google_plus      :
   keybase          :
   instagram        :

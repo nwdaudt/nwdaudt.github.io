@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Nicholas W Daudt website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Brazilian Marine Ecologist working with marine top predators, particularly seabirds.
+I’m a Brazilian **Marine Ecologist** working with *marine top predators*, particularly seabirds.
 
 Some of my research interest are:
 

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Marine Biology, Universidade Estadual do Rio Grande do Sul, Brazil, 2014
+* M.Sc. in Biological Oceanography, Universidade Federal do Rio Grande, Brazil, 2019
+* Ph.D. candidate in Marine Science, University of Otago, 2023 (expected)
 
 Work experience
 ======

@@ -18,4 +18,4 @@ I am currently a PhD candidate at the [Department of Marine Science](https://www
 
 I am working hard on learning and implement open-science principles, and on `[Resources]()` I share some links that have been helping me during this journey.
 
-I work closely with [Laboratório de Aves Aquáticas e Tartarugas Marinhas - LAATM](https://laatm.furg.br/), Lab where I did my Master degree, and the Scientific Collection Sector from the [Museu de Ciências Naturais - MUCIN](www.ufrgs.br/mucin), where I am an Associated Researcher.
+I work closely with [Laboratório de Aves Aquáticas e Tartarugas Marinhas - LAATM](https://laatm.furg.br/), Lab where I did my Master degree, and the Scientific Collection Sector from the [Museu de Ciências Naturais - MUCIN](https://www.ufrgs.br/mucin), where I am an Associated Researcher.

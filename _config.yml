@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas W. Daudt"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Nicholas Winterle Daudt"
-description              : &description "Marine Ecologist, PhD candidate at the University of Otago"
+description              : &description "Marine Ecologist and PhD candidate at the University of Otago"
 url                      : https://nwdaudt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/nwdaudt/nwdaudt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicholas Winterle Daudt"
   avatar           : "Foto_Nicholas.jpg"
-  bio              : "Marine Ecologist, PhD candidate at the University of Otago"
+  bio              : "Marine Ecologist and PhD candidate at the University of Otago"
   location         : "Dunedin, Aotearoa New Zealand"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8211-8771"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

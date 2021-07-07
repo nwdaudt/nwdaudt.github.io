@@ -16,4 +16,4 @@ Neste trabalho nós descrevemos um passo-a-passo para integrar e utilizar QGIS, 
 
 Destacamos que, pela natureza dos programas e linguagem utilziados serem de código aberto, a estrutura pode ser adaptada para diferentes propósitos (como coleta de dados biológicos, ecológicos, geológicos, etc.).
 
-[PDF](http://nwdaudt.github.io/files/2020_Schattschneider_et_al_EnvironMonitAssess_Geospatial_framework_beach_litter_monitoring)
+[PDF](http://nwdaudt.github.io/files/2020_Schattschneider_et_al_EnvironMonitAssess_Geospatial_framework_beach_litter_monitoring.pdf)

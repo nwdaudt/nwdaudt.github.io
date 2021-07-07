@@ -1,7 +1,7 @@
 ---
 title: "An open-source geospatial framework for beach litter monitoring"
 collection: publications
-permalink: /publication/2020Schattschneider_et_al_beach_litter_monitoring
+permalink: /publication/2020Schattschneider_et_al_BeachLitterMonitoring
 excerpt: "This study describes and provides a step-by-step guideline for using QGIS, QField and R for collecting, processing, and analysing beach litter monitoring data. Using free and open-source software (FOSS), the framework agrees with open-science practices by keeping transparency during the whole process. We also expect to support researchers/stakeholders that don't have a specific budget to carry out beach surveys and thus helping to create baseline information."
 date: 2020-09-19
 venue: 'Environmental Monitoring and Assessment'

@@ -2,7 +2,7 @@
 title: "Bulwer's Petrel <i>Bulweria bulwerii</i> in Brazilian waters"
 collection: publications
 permalink: /publication/2012Klein_et_al_Bulweria
-excerpt: "First documented record of Bulwer's Petrel for Brazil"
+excerpt: "First documented record of Bulwer's Petrel for Brazil."
 date: 2012-09-03
 venue: "Bulletin of the British Ornithologists' Club"
 paperurl: ""

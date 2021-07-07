@@ -1,7 +1,7 @@
 ---
 title: "Intentional killing and extensive aggressive handling of albatrosses and petrels at sea in the southwestern Atlantic Ocean"
 collection: publications
-permalink: /publication/2020Gianuca_et_al_BiolConserv
+permalink: /publication/2020Gianuca_et_al_BillMutilation
 excerpt: "In this paper we report fishermen off southern Brazil trying to reduce bait depredation in pole-and-line and handlining fisheries by hitting birds with a metal piece attached to a pole-and-line on four occasions. Fishermen also mutilated or killed birds caught alive on the lines (aggressive handling). In addition, we present a compilation of records of Procellariiformes with bill mutilations across the southwest Atlantic Ocean. Observations spanning 1999–2019 across the waters of Brazil, Uruguay and Argentina totalize 46 Procellariiformes of eight species (four globally threatened) recorded with bill mutilations (29 alive and 17 dead). Mutilations were likely caused by aggressive handling of birds caught alive."
 date: 2020-12-01
 venue: 'Biological Conservation'

@@ -22,7 +22,7 @@ I work closely with [Laboratório de Aves Aquáticas e Tartarugas Marinhas - LAA
 
 If you need to get in touch, you can find me on [Twitter](https://twitter.com/NWDaudt), or send me an email at `nicholaswdaudt [at] gmail.com`.
 
------------
+======
 
 (pt-br)  Olá,
 

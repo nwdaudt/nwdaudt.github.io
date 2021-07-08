@@ -7,4 +7,4 @@ redirect_from:
   - /outreach/
   - /outreach.md
 ---
-{% include base_path %}
+

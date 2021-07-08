@@ -9,36 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+#### You can download my full CV `[here]()`.  
+
 Education
 ======
-* B.Sc. in Marine Biology, Universidade Estadual do Rio Grande do Sul, Brazil, 2014
-* M.Sc. in Biological Oceanography, Universidade Federal do Rio Grande, Brazil, 2019
-* Ph.D. candidate in Marine Science, University of Otago, 2023 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PhD. candidate in [Marine Science](https://www.otago.ac.nz/marinescience/otago041399.html), University of Otago, New Zealand, 2023 (expected)
+* MSc. in [Biological Oceanography](https://ppgocbio.furg.br/en/), Universidade Federal do Rio Grande-FURG, Brazil, 2019
+* BSc. (Hons) in [Marine Biology](https://www.ufrgs.br/comgradbiomar/), Universidade Estadual do Rio Grande do Sul, Brazil, 2014
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Community ecology statistics
+* Coding (R)
+* GIS (QGIS & R)
+
+Research interests
+======
+* Community ecology
+* Spatial ecology
+* Trophic ecology
+* Marine pollution
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

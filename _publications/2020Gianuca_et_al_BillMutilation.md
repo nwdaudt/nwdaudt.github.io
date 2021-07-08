@@ -12,7 +12,7 @@ citation: 'Gianuca et al. (2020) &quot;Intentional killing and extensive aggress
 
 (pt-br)  Nesse trabalho documentamos práticas de manejo agressivo contra albatrozes e petréis no sul do Brasil. Com a justificativa de diminuir a depredação das íscas, os pescadores intencionalmente acertavam as aves com pedaços de metais amarrados em varas de pesca. Alguns pescadores também mataram intencionalmente aves vivas, fisgadas em anzóis sem intenção. Nós também documentamos 46 registros de albatrozes e petréis (vivos e mortos) com mutilações nos bicos. Apesar de contactarmos pesquisadores da vários países, os registros foram, somente, nos países do Brasil, Uruguai e Argentina. Das oito espécies registradas com mutilações, quatro estão em alguma categoria de ameaça de extinção. Essas mutilações foram, provavelmente, provenientes de manejos agressivos de pescadores contra as aves.
 
-[PDF](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Intentional_killing_and_bill_mutilations_albatrosses_petrels_SWAtlanticOcean.pdf.pdf), [Supp 1](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Supp1.pdf), [Supp 2](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Supp2.pdf)
+[PDF](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Intentional_killing_and_bill_mutilations_albatrosses_petrels_SWAtlanticOcean.pdf), [Supp 1](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Supp1.pdf), [Supp 2](http://nwdaudt.github.io/files/2020_Gianuca_et_al_BiolConserv_Supp2.pdf)
 
 
 Media press / Notícias na mídia

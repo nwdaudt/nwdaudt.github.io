@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Outreach"
-permalink: /outreach_page/
+permalink: /outreach/
 author_profile: true
-redirect_from:
-  - /outreach/
-  - /outreach.md
 ---
 
+{% include base_path %}
+
+{% for post in site.outreach reversed %} {% include archive-single-outreach.html %} {% endfor %}

@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
+redirect_from: 
+  - /outreach/
+  - /outreach1.md
 ---
-
-{% include base_path %}
-
-{% for post in site.outreach reversed %} {% include archive-single-outreach.html %} {% endfor %}

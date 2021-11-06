@@ -8,9 +8,9 @@ date: 2016-08-13
 location: "Imbé, Brazil"
 ---
 
-(en) Event webpage | (pt-br) Página do evento: [http://www.sabmar.com.br/]
+(en) Event webpage / (pt-br) Página do evento: [http://www.sabmar.com.br/]
 
-----
+------
 
 (en) Taught with [Alice Pereira](https://www.researchgate.net/profile/Alice-Pereira-6)
 

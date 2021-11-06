@@ -1,12 +1,12 @@
 ---
-title: "Sabine's Gulls *Xema sabini* outside of their main wintering areas are not necessarily vagrants"
+title: "Sabine's Gulls <i>Xema sabini</i> outside of their main wintering areas are not necessarily vagrants"
 collection: publications
 permalink: /publication/2021Prado_et_al_Xema
 excerpt: "Based on data from occurrence databases (eBird, OBIS, GBIF) and literarute, we report on unusual records of Sabine's Gulls worldwide -- usually refered as "vagrants". We discuss these records regarding age, marine productivity patterns, migration corridors, and lack of at-sea research effort, showing that they are in potential areas of occurrence, and thus not 'lost' as vagrants."
 date: 2021-10-15
 venue: 'Marine Ornithology'
 paperurl: 'http://www.marineornithology.org/content/get.cgi?rn=1442'
-citation: 'Prado et al. (2021) &quot;Sabine's Gulls *Xema sabini* outside of their main wintering areas are not necessarily vagrants.&quot; <i>Mar. Ornithol.</i> 49: 349-357.'
+citation: 'Prado et al. (2021) &quot;Sabine's Gulls <i>Xema sabini</i> outside of their main wintering areas are not necessarily vagrants.&quot; <i>Mar. Ornithol.</i> 49: 349-357.'
 ---
 "Not all those who wander are lost" -- J.R.R. Tolkien
 

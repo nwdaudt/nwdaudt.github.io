@@ -18,4 +18,5 @@ citation: 'Prado et al. (2021) &quot;Sabine's Gulls *Xema sabini* outside of the
 [PDF](http://nwdaudt.github.io/files/2021_Prado_et_al_MarOrnithol_SabinesGull.pdf), [Supp 1](http://nwdaudt.github.io/files/2021_Prado_et_al_MarOrnithol_SabinesGull_Appendix1.pdf), [Supp 2](http://nwdaudt.github.io/files/2021_Prado_et_al_MarOrnithol_SabinesGull_Appendix2.pdf)
 
 (en) Code can be also found in this [repo](https://github.com/nwdaudt/xema_sabini).
+
 (pt-br) Código da análise pode ser encontrado, também, nesse [repositório](https://github.com/nwdaudt/xema_sabini).

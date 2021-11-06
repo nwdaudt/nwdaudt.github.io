@@ -8,7 +8,7 @@ date: 2018-08-18
 location: "Osório, RS, Brazil"
 ---
 
-(en) Event webpage | (pt-br) Página do evento: [http://www.sabmar.com.br/]
+(en) Event webpage / (pt-br) Página do evento: [http://www.sabmar.com.br/]
 
 ----
 

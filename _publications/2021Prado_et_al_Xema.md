@@ -9,6 +9,7 @@ paperurl: 'http://www.marineornithology.org/content/get.cgi?rn=1442'
 citation: 'Prado et al. (2021) &quot;Sabine's Gulls *Xema sabini* outside of their main wintering areas are not necessarily vagrants.&quot; <i>Mar. Ornithol.</i> 49: 349-357.'
 ---
 
+
 "Not all those who wander are lost" -- J.R.R. Tolkien
 
 (en)  In this paper we report unusual records of *Xema sabini* worldwide, based on data from occurrence databases (eBird, OBIS, GBIF) and literarute. We discuss these records regarding age, marine productivity patterns, migration corridors, and lack of at-sea research effort. The majority of the records were in productive zones; from the ones that we were able to verify age (by plumage patterns), most were immatures, which are known to move longer distances. Areas identified here show that the birds could have reached there by known migratory routes (altought we did not test it). In summary, results show that they are in potential areas of occurrence, and thus not 'lost' as vagrants. Seabirders should avoid the term 'vagrant' for individuals in poorly studied areas.
